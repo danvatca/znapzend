@@ -22,3 +22,4 @@ thirdparty/*
 !thirdparty/Makefile.am
 !thirdparty/Makefile.in
 *.tar.gz
+init/znapzend.xml
